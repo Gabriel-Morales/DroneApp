@@ -36,8 +36,6 @@ def begin():
 
 		object_to_find_image = IMG_DIR + directory + os.path.sep + object_to_find_image
 		scene_image = IMG_DIR + directory + os.path.sep + scene_image
-		print(f'IM 1: {scene_image}, IM 2: {object_to_find_image}')
-
 		# invocation: ./llava-cli -m ggml-model-q5_k.gguf --mmproj mmproj-model-f16.gguf --image ../room.jpg --log-disable 2>/dev/null
 		llava_start = time.perf_counter()
 		output = subprocess.run(["./llava-cli", "-m", "ggml-model-q5_k.gguf", "--mmproj", "mmproj-model-f16.gguf", "--image", f"{object_to_find_image}", "--prompt", f"\"{llava_prompt}\""], capture_output=True)
@@ -55,7 +53,9 @@ def begin():
 		final.append(decoded2)
 
 		print(f"Answer to prompt 1 ({llava_prompt}) {final[0]}\nAnswer to prompt 2 ({llava_prompt_2}) {final[1]}\n")
-		break
+		print(f'Time to answer: {latencies[-1]}')
+		print('\n')
+		print('-'*50)
 
 	print(f'Average turnaround time: {sum(latencies)/len(latencies):0.4f}s')
 
