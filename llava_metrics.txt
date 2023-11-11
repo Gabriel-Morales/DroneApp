@@ -1,0 +1,242 @@
+['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20']
+[Directory #1]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Remote control
+
+Answer to prompt 2 (Is there a  Remote control anywhere here? Yes or no.)  No
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/1/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/1/bdroom.jpg]
+[Proper Image Label: Remote]
+[Is this object in the scene (ground truth): No]
+[Turnaround for scene: 62.2176s]
+--------------------------------------------------
+[Directory #2]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Computer
+
+Answer to prompt 2 (Is there a  Computer anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/2/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/2/groom.jpg]
+[Proper Image Label: Computer]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 61.6196s]
+--------------------------------------------------
+[Directory #3]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Bottle
+
+Answer to prompt 2 (Is there a  Bottle anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/3/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/3/kitchen.jpg]
+[Proper Image Label: Bottle]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 63.2479s]
+--------------------------------------------------
+[Directory #4]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Harry potter
+
+Answer to prompt 2 (Is there a  Harry potter anywhere here? Yes or no.)  Yes.
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/4/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/4/bkshelf.jpg]
+[Proper Image Label: Harry Potter Books]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 66.4820s]
+--------------------------------------------------
+[Directory #5]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Apple phone
+
+Answer to prompt 2 (Is there a  Apple phone anywhere here? Yes or no.)  Yes, there is an Apple phone in the image.
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/5/iphocouch.jpeg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/5/ip.jpg]
+[Proper Image Label: iPhone]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 66.9332s]
+--------------------------------------------------
+[Directory #6]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Wooden board
+
+Answer to prompt 2 (Is there a  Wooden board anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/6/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/6/meditate.jpg]
+[Proper Image Label: Incense Sticks]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 63.3025s]
+--------------------------------------------------
+[Directory #7]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Tassel
+
+Answer to prompt 2 (Is there a  Tassel anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/7/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/7/messy-room.jpg]
+[Proper Image Label: Tassle]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 62.9842s]
+--------------------------------------------------
+[Directory #8]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  24 crayons
+
+Answer to prompt 2 (Is there a  24 crayons anywhere here? Yes or no.)  No
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/8/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/8/classroom.jpg]
+[Proper Image Label: Crayons]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 65.9008s]
+--------------------------------------------------
+[Directory #9]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Silver slide
+
+Answer to prompt 2 (Is there a  Silver slide anywhere here? Yes or no.)  No
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/9/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/9/parkpool.jpg]
+[Proper Image Label: Slide]
+[Is this object in the scene (ground truth): No]
+[Turnaround for scene: 65.1524s]
+--------------------------------------------------
+[Directory #10]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Piano
+
+Answer to prompt 2 (Is there a  Piano anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/10/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/10/concert_hall.jpg]
+[Proper Image Label: Piano]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 62.5466s]
+--------------------------------------------------
+[Directory #11]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Bicycle
+
+Answer to prompt 2 (Is there a  Bicycle anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/11/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/11/garage.jpg]
+[Proper Image Label: Bike]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 62.8094s]
+--------------------------------------------------
+[Directory #12]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Hammer
+
+Answer to prompt 2 (Is there a  Hammer anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/12/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/12/workshop.jpg]
+[Proper Image Label: Hammer]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 62.8529s]
+--------------------------------------------------
+[Directory #13]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Microscope
+
+Answer to prompt 2 (Is there a  Microscope anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/13/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/13/laboratory.jpg]
+[Proper Image Label: Microscope]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 62.7753s]
+--------------------------------------------------
+[Directory #14]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Keyboard
+
+Answer to prompt 2 (Is there a  Keyboard anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/14/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/14/computer_lab.jpg]
+[Proper Image Label: Keyboard]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 68.4480s]
+--------------------------------------------------
+[Directory #15]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Tree
+
+Answer to prompt 2 (Is there a  Tree anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/15/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/15/christmas_lr.jpeg]
+[Proper Image Label: Christmas Tree]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 65.9565s]
+--------------------------------------------------
+[Directory #16]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Box
+
+Answer to prompt 2 (Is there a  Box anywhere here? Yes or no.)  No
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/16/object.JPG]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/16/or.jpg]
+[Proper Image Label: Trash Can]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 65.0709s]
+--------------------------------------------------
+[Directory #17]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Guitar
+
+Answer to prompt 2 (Is there a  Guitar anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/17/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/17/room2.jpg]
+[Proper Image Label: Guitar]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 64.6116s]
+--------------------------------------------------
+[Directory #18]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Green color computer mouse
+
+Answer to prompt 2 (Is there a  Green color computer mouse anywhere here? Yes or no.)  Yes.
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/18/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/18/EntireSystem.jpg]
+[Proper Image Label: Mouse]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 66.1894s]
+--------------------------------------------------
+[Directory #19]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Bed
+
+Answer to prompt 2 (Is there a  Bed anywhere here? Yes or no.)  No
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/19/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/19/lab2.jpg]
+[Proper Image Label: Mattress]
+[Is this object in the scene (ground truth): No]
+[Turnaround for scene: 66.4342s]
+--------------------------------------------------
+[Directory #20]
+Answer to prompt 1 (Tell me only the main object that you see. Do not provide a sentence.)  Clock
+
+Answer to prompt 2 (Is there a  Clock anywhere here? Yes or no.)  Yes
+
+
+[Img for prompt 1: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/20/object.jpg]
+[Img for prompt 2: /home/gmo-pop/Desktop/llama.cpp/ObjSimilarity/20/study-room-for-adults.jpg]
+[Proper Image Label: Hourglass]
+[Is this object in the scene (ground truth): Yes]
+[Turnaround for scene: 65.5090s]
+--------------------------------------------------
+Average turnaround time: 64.5522s
